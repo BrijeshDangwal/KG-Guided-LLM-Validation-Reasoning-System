@@ -1,4 +1,4 @@
-# 🔍 KG-Guided LLM Validation & Reasoning System
+# KG-Guided LLM Validation & Reasoning System
 
 A multi-stage pipeline that validates factual claims against novel text corpora using knowledge graph construction, evidence retrieval, and logic-based reasoning.
 
@@ -11,7 +11,7 @@ A multi-stage pipeline that validates factual claims against novel text corpora 
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The system runs a **9-step pipeline** organized into three phases:
 
@@ -41,7 +41,7 @@ The system runs a **9-step pipeline** organized into three phases:
 
 ---
 
-## 📊 Results
+## Results
 
 <!-- TODO: Fill in from accuracy.ipynb -->
 | Metric | Score |
@@ -51,7 +51,7 @@ The system runs a **9-step pipeline** organized into three phases:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -64,7 +64,7 @@ The system runs a **9-step pipeline** organized into three phases:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -123,7 +123,7 @@ The pipeline expects:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── src/
@@ -146,7 +146,7 @@ The pipeline expects:
 
 ---
 
-## 🔑 Key Design Decisions
+##  Key Design Decisions
 
 - **Confidence-filtered KG**: Only facts above `min_fact_conf=0.65` become KG triples, reducing noise propagation
 - **Contradiction penalty**: Claims with contradicting evidence are penalized 2× during aggregation, prioritizing precision
@@ -155,13 +155,13 @@ The pipeline expects:
 
 ---
 
-## 📝 License
+## License
 
 MIT
 
 ---
 
-## 👤 Author
+## Author
 
 **Brijesh Dangwal**  
 [GitHub](https://github.com/BrijeshDangwal) · [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
