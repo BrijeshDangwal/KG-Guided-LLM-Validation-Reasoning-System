@@ -4,10 +4,7 @@ A multi-stage pipeline that validates factual claims against novel text corpora 
 
 > Given a set of claims and source novels, the system builds a knowledge graph, retrieves supporting/contradicting evidence, applies logical constraints, and produces validated verdicts with human-readable dossiers.
 
-<!-- 
-  TODO: Add architecture diagram image
-  ![Architecture](docs/architecture.png) 
--->
+![Architecture](docs/architecture.svg)
 
 ---
 
