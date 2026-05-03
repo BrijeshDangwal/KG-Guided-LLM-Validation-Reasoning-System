@@ -28,7 +28,7 @@ def main():
         use_pathway=args.use_pathway,
     )
 
-    print("\nDONE ✅")
+    print("\nDONE")
     print("run_id:", result["run_id"])
     print("results.csv:", result["results_csv"])
     print("submission zip:", result["submission_zip"])
