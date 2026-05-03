@@ -1,0 +1,1788 @@
+id,book_name,mention,canonical_entity,entity_type,confidence,run_id
+46,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+46,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+46,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+74,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+74,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+109,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+109,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+104,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+104,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+35,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+35,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+35,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+18,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+18,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+18,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+31,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+31,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+31,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+68,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+68,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+9,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+9,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+9,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+84,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+84,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+83,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+83,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+134,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+134,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+88,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+88,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+67,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+67,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+112,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+112,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+79,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+79,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+55,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+55,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+12,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+12,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+12,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+13,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+13,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+13,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+92,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+92,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+1,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+1,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+1,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+11,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+11,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+11,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+65,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+65,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+107,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+107,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+66,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+66,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+89,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+89,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+34,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+34,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+34,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+123,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+123,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+116,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+116,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+43,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+43,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+43,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+108,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+108,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+128,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+128,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+29,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+29,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+29,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+69,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+69,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+50,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+50,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+5,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+5,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+5,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+39,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+39,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+39,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+19,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+19,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+19,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+113,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+113,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+139,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+139,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+71,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+71,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+26,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+26,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+26,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+117,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+117,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+6,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+6,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+6,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+76,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+76,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+17,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+17,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+17,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+20,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+20,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+20,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+10,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+10,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+10,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+122,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+122,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+36,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+36,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+36,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+73,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+73,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+98,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+98,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+25,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+25,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+25,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+120,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+120,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+105,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+105,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+57,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+57,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+106,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+106,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+118,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+118,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+126,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+126,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+4,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+4,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+4,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+125,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+125,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+40,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+40,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+40,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+96,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+96,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+45,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+45,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+45,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+54,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+54,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+8,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+8,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+8,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+32,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+32,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+32,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+14,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+14,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+14,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+63,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+63,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+41,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+41,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+41,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+23,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+23,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+23,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+90,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+90,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+100,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+100,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+138,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+138,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+130,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+130,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+48,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+48,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+95,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+95,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+136,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+136,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+60,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+60,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+124,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+124,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+111,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+111,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+135,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+135,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+27,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+27,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+27,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+110,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+110,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+42,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+42,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+42,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+56,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+56,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+80,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+80,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+28,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+28,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+28,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+101,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+101,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+91,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+91,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+24,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+24,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+24,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+119,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+119,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+93,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+93,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+72,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+72,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+16,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+16,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+16,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+30,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+30,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+30,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+97,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+97,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+22,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+22,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+22,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+53,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+53,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+81,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+81,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+47,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+47,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+7,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+7,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+7,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+121,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+121,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+129,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+129,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+51,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+51,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+127,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+127,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+133,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+133,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+52,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+52,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+114,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+114,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+2,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+2,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+2,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+33,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+33,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+33,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+15,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+15,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+15,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+82,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+82,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+37,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+37,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+37,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+3,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+3,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+3,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+103,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+103,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+94,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+94,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+85,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+85,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Jacques Paganel,Jacques Paganel,CHAR,1.0,run_20260111_012408
+21,In search of the castaways,Paganel,Jacques Paganel,CHAR,0.65,run_20260111_012408
+21,In search of the castaways,Mr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Mrs Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Ms Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Miss Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Count Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Captain Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Doctor Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Dr Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Sir Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Madam Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Monsieur Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+21,In search of the castaways,Mademoiselle Paganel,Jacques Paganel,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+49,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+49,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+140,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+140,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+64,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+64,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+131,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+131,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Thalcave,Thalcave,CHAR,1.0,run_20260111_012408
+61,In search of the castaways,Mr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Mrs Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Ms Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Miss Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Count Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Captain Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Doctor Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Dr Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Sir Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Madam Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Monsieur Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+61,In search of the castaways,Mademoiselle Thalcave,Thalcave,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+86,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+86,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+38,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+38,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+38,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+132,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+132,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+77,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+77,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+70,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+70,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Faria,Faria,CHAR,1.0,run_20260111_012408
+115,The Count of Monte Cristo,Mr Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Mrs Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Ms Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Miss Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Count Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Captain Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Doctor Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Dr Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Sir Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Madam Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Monsieur Faria,Faria,CHAR,0.35,run_20260111_012408
+115,The Count of Monte Cristo,Mademoiselle Faria,Faria,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+78,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+78,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Noirtier,Noirtier,CHAR,1.0,run_20260111_012408
+87,The Count of Monte Cristo,Mr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Mrs Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Ms Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Miss Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Count Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Captain Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Doctor Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Dr Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Sir Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Madam Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Monsieur Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+87,The Count of Monte Cristo,Mademoiselle Noirtier,Noirtier,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Kai-Koumou,Kai-Koumou,CHAR,1.0,run_20260111_012408
+75,In search of the castaways,Mr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Mrs Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Ms Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Miss Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Count Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Captain Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Doctor Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Dr Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Sir Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Madam Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Monsieur Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+75,In search of the castaways,Mademoiselle Kai-Koumou,Kai-Koumou,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Tom Ayrton/Ben Joyce,Tom Ayrton/Ben Joyce,CHAR,1.0,run_20260111_012408
+44,In search of the castaways,Joyce,Tom Ayrton/Ben Joyce,CHAR,0.65,run_20260111_012408
+44,In search of the castaways,Mr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Mrs Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Ms Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Miss Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Count Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Captain Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Doctor Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Dr Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Sir Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Madam Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Monsieur Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408
+44,In search of the castaways,Mademoiselle Joyce,Tom Ayrton/Ben Joyce,CHAR,0.35,run_20260111_012408

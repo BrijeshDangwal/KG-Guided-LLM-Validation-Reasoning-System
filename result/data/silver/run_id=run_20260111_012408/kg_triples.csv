@@ -1,0 +1,10 @@
+triple_id,id,claim_id,book_name,s,p,o,time_bucket,polarity,confidence,chunk_id,excerpt_span,chapter_id,chunk_pos,support_label,run_id
+t_00001,84,84_c01,In search of the castaways,Kai-Koumou,Died,True,EARLY,POS,0.8024563925693347,castaways_ch001_w0126,"[0, 180]",ch001,0.271185,SUPPORT,run_20260111_012408
+t_00002,123,123_c01,The Count of Monte Cristo,Faria,Died,True,EARLY,POS,0.94,montecristo_ch001_w0334,"[270, 394]",ch001,0.213467,SUPPORT,run_20260111_012408
+t_00003,57,57_c02,In search of the castaways,Thalcave,Died,True,EARLY,POS,0.9256334054376834,castaways_ch001_w0121,"[933, 1057]",ch001,0.260441,SUPPORT,run_20260111_012408
+t_00004,57,57_c02,In search of the castaways,Thalcave,Died,True,MID,POS,0.94,castaways_ch001_w0241,"[511, 635]",ch001,0.519544,SUPPORT,run_20260111_012408
+t_00005,23,23_c01,In search of the castaways,Jacques Paganel,Died,True,EARLY,POS,0.94,castaways_ch001_w0023,"[1001, 1125]",ch001,0.050897,SUPPORT,run_20260111_012408
+t_00006,80,80_c02,In search of the castaways,Kai-Koumou,Died,True,EARLY,POS,0.7865751924377322,castaways_ch001_w0023,"[1001, 1125]",ch001,0.050897,SUPPORT,run_20260111_012408
+t_00007,80,80_c02,In search of the castaways,Kai-Koumou,Died,True,MID,POS,0.8024793985733346,castaways_ch001_w0218,"[1397, 1521]",ch001,0.470043,SUPPORT,run_20260111_012408
+t_00008,47,47_c01,In search of the castaways,Thalcave,Died,True,EARLY,POS,0.94,castaways_ch001_w0126,"[0, 118]",ch001,0.271185,SUPPORT,run_20260111_012408
+t_00009,78,78_c04,In search of the castaways,Kai-Koumou,Died,True,EARLY,POS,0.781444992993072,castaways_ch001_w0011,"[0, 180]",ch001,0.025437,SUPPORT,run_20260111_012408
