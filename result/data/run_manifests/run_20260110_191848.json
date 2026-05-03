@@ -1,0 +1,72 @@
+{
+  "run_id": "run_20260110_191848",
+  "created_at_ist": "2026-01-10T19:18:48.022199+05:30",
+  "inputs": {
+    "train_csv": {
+      "path": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\bronze\\train.csv",
+      "sha256": "161286489e892851dcbaf16d2726165853971f814cdb484af3dcbd38508e5747"
+    },
+    "test_csv": {
+      "path": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\bronze\\test.csv",
+      "sha256": "995bfe3ee9d5829ba0e68f08a49ab1489f9b0c11065367b1ac50783bbbae6d2f"
+    },
+    "novels": [
+      {
+        "book_name": "In search of the castaways",
+        "file": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\bronze\\novels\\In search of the castaways.txt",
+        "sha256": "3d8a7848eac10d7acb87a05b5e83726180ba7de6191536895641c483437563d5"
+      },
+      {
+        "book_name": "The Count of Monte Cristo",
+        "file": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\bronze\\novels\\The Count of Monte Cristo.txt",
+        "sha256": "bb159642124f279a726161e5df500aa017be6fd911435ddad19da10847957c8f"
+      }
+    ]
+  },
+  "parameters": {
+    "config": {
+      "chunking": {
+        "window_words": 350,
+        "overlap_words": 50,
+        "min_chunk_words": 120,
+        "chapter_regex": "(?im)^(chapter|chapitre)\b.*$"
+      },
+      "retrieval": {
+        "k": 12,
+        "candidate_pool": 80,
+        "max_per_chapter": 2,
+        "enforce_buckets": true,
+        "backend": "bm25"
+      },
+      "verifier": {
+        "min_fact_conf": 0.65
+      },
+      "kg": {
+        "min_fact_conf": 0.65
+      },
+      "aggregation": {
+        "contradiction_penalty": 2.0
+      },
+      "use_pathway": false
+    },
+    "aggregation_threshold_calibrated_on_train": 1.5486610218046983
+  },
+  "outputs": {
+    "novel_registry": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\novel_registry.csv",
+    "chunks": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\chunks.csv",
+    "claims": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\claims.jsonl",
+    "retrieval_candidates": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\retrieval_candidates.csv",
+    "retrieval_coverage": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\retrieval_coverage.csv",
+    "evidence_labels": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\evidence_labels.csv",
+    "facts": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\facts.jsonl",
+    "aliases": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\aliases.csv",
+    "kg_triples": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\silver\\run_id=run_20260110_191848\\kg_triples.csv",
+    "constraint_runs": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\constraint_runs.jsonl",
+    "constraints_grounded": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\constraints_grounded.jsonl",
+    "decision_scores": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\decision_scores.csv",
+    "results": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\results.csv",
+    "dossier_index": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\dossier\\dossier_index.csv",
+    "dossier_zip": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\dossier_run_20260110_191848.zip",
+    "submission_zip": "C:\\Users\\dangw\\Downloads\\kdsh_trackA_mvp\\kdsh_trackA_data_centric\\data\\gold\\run_id=run_20260110_191848\\submission_run_20260110_191848.zip"
+  }
+}
